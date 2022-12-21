@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/deni.dir/lab6.cpp.o -o deni 

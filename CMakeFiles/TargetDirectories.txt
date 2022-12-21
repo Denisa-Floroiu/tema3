@@ -1,0 +1,3 @@
+/home/deni/Desktop/tema3/CMakeFiles/tema.dir
+/home/deni/Desktop/tema3/CMakeFiles/edit_cache.dir
+/home/deni/Desktop/tema3/CMakeFiles/rebuild_cache.dir
